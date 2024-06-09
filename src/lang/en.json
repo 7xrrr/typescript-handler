@@ -1,0 +1,14 @@
+{
+    "langConfig": {
+         "name": "English",
+         "flag": "🇺🇸"
+    },
+     
+    "noPermissionBot": "- **I need the following permissions to run this command:** {permissions}",
+    "noPermmisionUser": "- **You need the following permissions or roles to run this command:** {permissions}",
+    "noMongoDB": "- **I need a MongoDB connection to run this command.**",
+    "cooldown": "- **Please wait {time} before using the command again.**",
+    "ownerOnly": "- **This command is only for the server owner.**",
+    "error": "- **An error occurred while executing the command.**",
+    "developerOnly": "- **This command is only for the bot developer.**"
+}
