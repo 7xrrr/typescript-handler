@@ -1,5 +1,5 @@
 export default {
-      token: process.env.TOKEN || `MTI0ODMxNzM3MTczOTkzMDc1OQ.GCyY2F.6iTixdRieA15cdzV25hzUgGb8pvJVo9GI5IJUU`,
+      token: process.env.TOKEN || `test`,
       mongoDB: process.env.MONGODB || "mongodb://localhost:27017/euiz-dev",
       embedColor: "#ffffff",
       prefix: "-",
